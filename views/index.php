@@ -21,6 +21,7 @@
               <input type="submit" value="Login" class="btn btn-primary w-100">
             </form>
             <p class="text-center mt-3 small"><a href="register.php">Create Account</a></p>
+            <p class="text-center mt-3 small">make some changes</p>
           </div>
        </div>
     </div>
